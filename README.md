@@ -96,6 +96,7 @@
 ## Kontribusi
 
 ### Fitur apa yang ditawarkan NutriPlan?
+
 NutriPlan menyediakan perencanaan menu, penjadwalan latihan, dan program pribadi yang didukung oleh kecerdasan buatan (AI) yang disesuaikan dengan tujuan Anda.
 ---
 ### Bisakah saya menyesuaikan rencana diet saya?
